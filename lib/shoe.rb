@@ -34,3 +34,5 @@ end
 x = Shoe.new("Nike")
 
 binding.pry
+
+x 
